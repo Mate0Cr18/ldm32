@@ -1,0 +1,67 @@
+h1{
+    color: aquamarine;
+    justify-content: center;
+    font-family: Agbalumo;
+    align-items: center;
+    display: flex;
+} 
+p{
+    color: aquamarine;
+    font-family: Inter;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: Inter;
+}
+div{
+    width: 300px;
+    height: 600px;
+    background-color: #572364;
+    position: relative;
+    top: 0px;
+    padding: 10px;
+
+
+
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin:0;
+
+
+}
+button{
+    background-color: aquamarine;
+    border-color: #FFFFFF;
+    border-width: 2px;
+    color: black;
+    border-radius: 10px;
+    padding: 8px;
+    margin: 15px;
+}
+button:hover{
+    background-color: aquamarine;
+    border-width: 4px;
+    border-color: red;
+    color: gold;
+    border-radius: 10px;
+    padding: 8px;
+    margin:15px;
+}
+img{
+    position: relative;
+    top: 10px;
+    width: 200px;
+    z-index: 1px;
+    border: 5px solid aquamarine;
+    border-radius: 5px;
+}
+#Agbalumo{
+    font-family: Agbalumo;
+}
+#Inter{
+    font-family: Inter;
+}
